@@ -6,7 +6,7 @@ WIP: migration to new project structure
 
 Clone the repository with the --recursive option to automatically clone submodules:
 
-`git clone --recursive https://github.com/geosolutions-it/mapstore-product.git`
+`git clone https://github.com/geosolutions-it/mapstore-product.git`
 
 Install NodeJS from [here](https://nodejs.org/en/download/releases/).
 
